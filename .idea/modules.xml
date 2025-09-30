@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_05.iml" filepath="$PROJECT_DIR$/Lab_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/PartyAffiliation/PartyAffiliation.iml" filepath="$PROJECT_DIR$/PartyAffiliation/PartyAffiliation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShippingCostCalculator/ShippingCostCalculator.java.iml" filepath="$PROJECT_DIR$/ShippingCostCalculator/ShippingCostCalculator.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheatreKiosk/TheatreKiosk.iml" filepath="$PROJECT_DIR$/TheatreKiosk/TheatreKiosk.iml" />
     </modules>
   </component>
 </project>
